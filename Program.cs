@@ -1,11 +1,15 @@
 using GroopWebApp.Data;
 using GroupWebApp.Data;
+using GroupWebApp.Interfaces;
+using GroupWebApp.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IClubRepository,ClubRepository>();
+builder.Services.AddScoped<IRaceRepository, RaceRepository>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));

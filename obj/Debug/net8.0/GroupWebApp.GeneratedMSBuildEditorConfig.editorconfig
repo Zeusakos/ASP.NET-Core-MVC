@@ -34,12 +34,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zeus/source/repos/GroupWebApp/GroupWebApp/Views/Races/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZXNcRGV0YWlsLmNzaHRtbA==
+[C:/Users/Zeus/source/repos/GroupWebApp/GroupWebApp/Views/Race/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Zeus/source/repos/GroupWebApp/GroupWebApp/Views/Races/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZXNcSW5kZXguY3NodG1s
+[C:/Users/Zeus/source/repos/GroupWebApp/GroupWebApp/Views/Race/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFjZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zeus/source/repos/GroupWebApp/GroupWebApp/Views/Shared/Error.cshtml]

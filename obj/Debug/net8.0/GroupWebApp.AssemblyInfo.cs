@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroupWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adbb306ef923440d5b6f5c595f10d6f1ca4a7610")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroupWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroupWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

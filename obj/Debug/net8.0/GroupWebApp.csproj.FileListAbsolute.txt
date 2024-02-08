@@ -134,3 +134,4 @@ C:\Users\Zeus\source\repos\GroupWebApp\GroupWebApp\obj\Debug\net8.0\refint\Group
 C:\Users\Zeus\source\repos\GroupWebApp\GroupWebApp\obj\Debug\net8.0\GroupWebApp.pdb
 C:\Users\Zeus\source\repos\GroupWebApp\GroupWebApp\obj\Debug\net8.0\GroupWebApp.genruntimeconfig.cache
 C:\Users\Zeus\source\repos\GroupWebApp\GroupWebApp\obj\Debug\net8.0\ref\GroupWebApp.dll
+C:\Users\Zeus\source\repos\GroupWebApp\GroupWebApp\obj\Debug\net8.0\GroupWebApp.sourcelink.json
